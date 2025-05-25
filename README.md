@@ -2,7 +2,7 @@
 
 ### By: Yash Mhaskar | Date: 2 - Oct - 24
 
-C implementation of a Feistel cipher for 8-bit strings.
+C implementation of DES for 8-bit strings.
 
 --------
 
